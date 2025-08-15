@@ -1,5 +1,4 @@
 # Distributed File-Sharing Application
-[GitHub Link](https://github.com/shivangshukla7020/distributed-file-sharing)
 
 ## Description
 A **distributed file-sharing system** that enables multiple clients in a network to exchange files efficiently using **multithreading, TCP sockets, and multicast communication**.
